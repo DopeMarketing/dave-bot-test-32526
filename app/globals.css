@@ -1,0 +1,17 @@
+:root {
+  --color-primary: #14b8a6;
+  --color-primary-light: #14b8a620;
+  --color-primary-dark: #14b8a6;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #ffffff;
+  color: #111827;
+  font-family: var(--font-inter);
+}
